@@ -1,2 +1,2 @@
 # simple_calculator
-Python practice
+Basic Python code practice
